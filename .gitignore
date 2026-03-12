@@ -1,0 +1,15 @@
+# Environment variables (contains API keys)
+.env
+
+# Node
+node_modules/
+package-lock.json
+
+# Output images
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Temp files
+tmpclaude-*
