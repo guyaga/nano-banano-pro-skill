@@ -62,7 +62,7 @@ GEMINI_API_KEY=your-api-key-here
 cd ~/.claude/skills/
 
 # Clone this repo
-git clone https://github.com/guyага/nano-banano-pro-skill.git nano-banano-pro
+git clone https://github.com/guyaga/nano-banano-pro-skill.git nano-banano-pro
 
 # Install dependencies
 cd nano-banano-pro
